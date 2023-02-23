@@ -23,7 +23,7 @@ package fdkaac_test
 
 import (
 	"fmt"
-	"github.com/izern/go-fdkaac/fdkaac"
+	"github.com/fury76/go-fdkaac/fdkaac"
 )
 
 func ExampleAacDecoder_RAW() {
